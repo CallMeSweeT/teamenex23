@@ -1,0 +1,1 @@
+arbejdstager: node bot.js
